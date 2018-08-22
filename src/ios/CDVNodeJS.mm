@@ -88,7 +88,7 @@ NSString* const NODE_ROOT = @"/www/nodejs-project/";
   LOG_FN
 
   NSString* const NODE_PATH = @"NODE_PATH";
-  NSString* const BUILTIN_MODULES = @"/www/nodejs-mobile-cordova-assets/builtin_modules";
+  NSString* const BUILTIN_MODULES = @"/www/nodejs-cordova-plugin-assets/builtin_modules";
 
   // The 'onAppTerminate', 'onReset' and 'onMemoryWarning' events are already
   // registered in the super class while 'onPause' and 'onResume' are not.

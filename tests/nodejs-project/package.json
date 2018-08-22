@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-mobile-cordova-tests-project",
+  "name": "nodejs-cordova-plugin-tests-project",
   "version": "0.1.5-dev",
   "description": "Node project part of the Node.js for Mobile Apps Cordova plugin tests",
   "main": "test-main.js",

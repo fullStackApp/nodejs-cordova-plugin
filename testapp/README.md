@@ -1,4 +1,4 @@
-# nodejs-mobile-cordova plugin test application
+# nodejs-cordova-plugin plugin test application
 
 This is a Cordova application designed to run the [Node.js for Mobile Apps Cordova plugin tests](../tests).
 
@@ -11,18 +11,18 @@ These instructions assume you are already able to install and run a Cordova appl
 ### Clone this repo
 
 ```sh
-git clone https://github.com/janeasystems/nodejs-mobile-cordova
+git clone https://github.com/fullStackApp/nodejs-cordova-plugin
 ```
 
 ### Install the cordova platforms and plugins
 
 Start by installing the npm dependencies:
 ```sh
-cd nodejs-mobile-cordova/testapp
+cd nodejs-cordova-plugin/testapp
 npm install
 ```
 
-Use the helper script to copy the "nodejs-mobile-cordova" plugin code that's in the parent directory to `testapp/temp-module-copy`, so cordova can install it:
+Use the helper script to copy the "nodejs-cordova-plugin" plugin code that's in the parent directory to `testapp/temp-module-copy`, so cordova can install it:
 ```sh
 npm run copy-module
 ```

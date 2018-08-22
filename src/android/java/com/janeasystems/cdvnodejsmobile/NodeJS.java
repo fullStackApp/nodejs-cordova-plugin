@@ -35,8 +35,8 @@ public class NodeJS extends CordovaPlugin {
 
   private static String filesDir;
   private static final String PROJECT_ROOT = "www/nodejs-project";
-  private static final String BUILTIN_ASSETS = "nodejs-mobile-cordova-assets";
-  private static final String BUILTIN_MODULES = "nodejs-mobile-cordova-assets/builtin_modules";
+  private static final String BUILTIN_ASSETS = "nodejs-cordova-plugin-assets";
+  private static final String BUILTIN_MODULES = "nodejs-cordova-plugin-assets/builtin_modules";
   private static final String TRASH_DIR = "nodejs-project-trash";
   private static final String BUILTIN_NATIVE_ASSETS_PREFIX = "nodejs-native-assets-";
   private static String nodeAppRootAbsolutePath = "";

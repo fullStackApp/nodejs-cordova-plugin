@@ -105,7 +105,7 @@ function setUpJasmine() {
 document.addEventListener('deviceready', function () {
   'use strict';
 
-  cordova.require('nodejs-mobile-cordova-tests.tests').defineAutoTests(); // eslint-disable-line no-undef
+  cordova.require('nodejs-cordova-plugin-tests.tests').defineAutoTests(); // eslint-disable-line no-undef
 
   htmlReporter.initialize();
   env.execute();

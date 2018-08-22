@@ -18,8 +18,8 @@
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
-      "nodejs-mobile-cordova": {},
-      "nodejs-mobile-cordova-tests": {}
+      "nodejs-cordova-plugin": {},
+      "nodejs-cordova-plugin-tests": {}
     },
     "platforms": [
       "android",

@@ -1,5 +1,5 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-  id="nodejs-mobile-cordova-tests"
+  id="nodejs-cordova-plugin-tests"
   version="0.1.5-dev">
   <name>Node.js for Mobile Apps Cordova plugin tests</name>
   <license>MIT</license>

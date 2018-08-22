@@ -7,6 +7,17 @@
 
 This plugin is forked by the staging-babel-UI-runtime branch in order to have javascript files executeble from every webView
 
+
+## NEWS
+
+For every release there is the features list in [CHANGELOG](https://github.com/fullStackApp/nodejs-cordova-plugin/blob/master/CHANGELOG.md)
+
+
+* First Release 1.0.1
+
+August 23,2018  | **Release 1.0.1** | available from [npm](https://www.npmjs.com/package/nodejs-cordova-plugin/v/1.0.1)  |
+---- | ---- | ---- |
+
 ## Installation
 
 ```bash
@@ -23,11 +34,21 @@ When building an application for the Android platform, make sure you have the [A
 ```bash
 $ export ANDROID_NDK_HOME=/Users/username/Library/Android/sdk/ndk-bundle
 ```
+
+## Native Modules
+
+If you want to skip rebuild native modules, that are not supported in **windows 10**, you have to add a ```NODEJS_MOBILE_BUILD_NATIVE_MODULES_VALUE.txt``` in your www cordova folder with a ```0``` value.
+That is:
+
+```bash
+echo "0" > www/NODEJS_MOBILE_BUILD_NATIVE_MODULES_VALUE.txt
+```
+
 ## Verified requirements
 
  - Cordova 7.0.0
  - Cordova android platform 6.3.0
- - Android 5.0.0 device
+ - Android 6.0.0 device
  
  Example project [here](https://github.com/amanganiello90/java-angular-web-app#cordova)
 

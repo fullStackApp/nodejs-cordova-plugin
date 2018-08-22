@@ -46,7 +46,7 @@
     <source-file src="src/ios/NodeJSRunner.mm" />
     <header-file src="libs/ios/nodemobile/include" />
 
-    <asset src="install/nodejs-mobile-cordova-assets" target="nodejs-mobile-cordova-assets" />
+    <asset src="install/nodejs-cordova-plugin-assets" target="nodejs-cordova-plugin-assets" />
 
     <framework src="libs/ios/nodemobile/NodeMobile.framework" custom="true" embed="true" />
     <framework src="libs/ios/nodemobile/NodeMobile.framework" />
@@ -86,7 +86,7 @@
 
     <source-file src="libs/android/libnode/" target-dir="src/com/janeasystems/cdvnodejsmobile/jni/" />
 
-    <source-file src="install/nodejs-mobile-cordova-assets/" target-dir="assets/" />
+    <source-file src="install/nodejs-cordova-plugin-assets/" target-dir="assets/" />
 
     <framework src="src/android/build.gradle" custom="true" type="gradleReference" />
     <source-file src="src/android/CMakeLists.txt" target-dir="src/com/janeasystems/cdvnodejsmobile/jni/"/>

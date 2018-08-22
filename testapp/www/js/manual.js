@@ -17,7 +17,7 @@ document.addEventListener('deviceready', function () {
 
   var contentEl = document.getElementById('content');
 
-  cordova.require('nodejs-mobile-cordova-tests.tests').defineManualTests(contentEl, createActionButton); // eslint-disable-line no-undef
+  cordova.require('nodejs-cordova-plugin-tests.tests').defineManualTests(contentEl, createActionButton); // eslint-disable-line no-undef
 
 });
 

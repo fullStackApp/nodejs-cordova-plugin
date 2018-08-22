@@ -1,9 +1,9 @@
 {
-  "name": "nodejs-mobile-cordova-tests",
+  "name": "nodejs-cordova-plugin-tests",
   "version": "0.1.5-dev",
   "description": "Node.js for Mobile Apps Cordova plugin tests",
   "cordova": {
-    "id": "nodejs-mobile-cordova-tests",
+    "id": "nodejs-cordova-plugin-tests",
     "platforms": []
   },
   "author": "janeasystems",
