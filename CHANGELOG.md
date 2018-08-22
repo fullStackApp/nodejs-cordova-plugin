@@ -6,6 +6,7 @@
 </tr>
 <tr>
 <td>
+<a href="#1.0.0">1.0.0</a><br/>
 <a href="#0.2.1">0.2.1</a><br/>
 <a href="#0.2.0">0.2.0</a><br/>
 <a href="#0.1.5">0.1.5</a><br/>
@@ -16,6 +17,17 @@
 </td>
 </tr>
 </table>
+
+<a id="1.0.0"></a>
+## Version 1.0.0 - Aug 22 2018
+
+### Notable Changes
+ - Change plugin name, adding javascript transpilation, automatic travis build
+
+### Commits
+ - [[`8248320`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/824832026a6d212ec350eb7922f8a570f092fb23)] - changing name and travis file (amanganiello90)
+ - [[`e078248`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/e078248709d903bc65231f9b24e22b4efeec10df)] - Update after fork (amanganiello90)
+
 
 <a id="0.2.1"></a>
 ## Version 0.2.1 - Jul 30 2018

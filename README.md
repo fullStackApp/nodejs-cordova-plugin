@@ -1,4 +1,9 @@
-# Node.js for Mobile Apps Cordova plugin
+
+[![npm](https://img.shields.io/badge/npm-v8.9.4-green.svg)](https://www.npmjs.com/package/nodejs-cordova-plugin)&nbsp;<img src="https://img.shields.io/github/forks/fullStackApp/nodejs-cordova-plugin.svg">&nbsp;
+<img src="https://img.shields.io/github/stars/fullStackApp/nodejs-cordova-plugin.svg">&nbsp;<a href="https://github.com/fullStackApp/nodejs-cordova-plugin/issues"><img src="https://img.shields.io/github/issues/fullStackApp/nodejs-cordova-plugin.svg">
+</a>&nbsp;
+
+## nodejs-cordova-plugin [![Build Status](https://travis-ci.org/fullStackApp/nodejs-cordova-plugin.svg)](https://travis-ci.org/fullStackApp/nodejs-cordova-plugin)
 
 This plugin is forked by the staging-babel-UI-runtime branch in order to have javascript files executeble from every webView
 
