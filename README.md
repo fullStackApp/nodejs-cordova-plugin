@@ -5,7 +5,7 @@
 
 ## nodejs-cordova-plugin [![Build Status](https://travis-ci.org/fullStackApp/nodejs-cordova-plugin.svg)](https://travis-ci.org/fullStackApp/nodejs-cordova-plugin)
 
-This plugin is forked by the staging-babel-UI-runtime branch in order to have javascript files executeble from every webView
+This plugin is forked by the staging-babel-UI-runtime branch in order to have javascript files executables from every webView
 
 
 ## NEWS
@@ -13,9 +13,9 @@ This plugin is forked by the staging-babel-UI-runtime branch in order to have ja
 For every release there is the features list in [CHANGELOG](https://github.com/fullStackApp/nodejs-cordova-plugin/blob/master/CHANGELOG.md)
 
 
-* First Release 1.0.1
+* First Release 2.0.0
 
-August 23,2018  | **Release 1.0.1** | available from [npm](https://www.npmjs.com/package/nodejs-cordova-plugin/v/1.0.1)  |
+August 29,2018  | **Release 2.0.0** | available from [npm](https://www.npmjs.com/package/nodejs-cordova-plugin/v/2.0.0)  |
 ---- | ---- | ---- |
 
 ## Installation
@@ -50,7 +50,7 @@ echo "0" > www/NODEJS_MOBILE_BUILD_NATIVE_MODULES_VALUE.txt
  - Cordova android platform 6.3.0
  - Android 6.0.0 device
  
- Example project [here](https://github.com/amanganiello90/java-angular-web-app#cordova)
+ Example project [here](https://github.com/amanganiello90/java-angular-web-app#cordova-android)
 
 ## Supported Platforms
 

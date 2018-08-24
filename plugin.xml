@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="nodejs-cordova-plugin"
-      version="1.0.0">
+      version="2.0.0">
 
   <name>Node.js Mobile</name>
   <description>Node.js for Mobile Apps Cordova Plugin</description>
@@ -83,6 +83,7 @@
     <source-file src="src/common/cordova-bridge/cordova-bridge.h" target-dir="src/com/janeasystems/cdvnodejsmobile/jni/" />
     <source-file src="src/common/cordova-bridge/cordova-bridge.cpp" target-dir="src/com/janeasystems/cdvnodejsmobile/jni/" />
     <source-file src="src/android/jni/native-lib.cpp" target-dir="src/com/janeasystems/cdvnodejsmobile/jni/" />
+
 
     <source-file src="libs/android/libnode/" target-dir="src/com/janeasystems/cdvnodejsmobile/jni/" />
 

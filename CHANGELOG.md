@@ -6,7 +6,7 @@
 </tr>
 <tr>
 <td>
-<a href="#1.0.1">1.0.1</a><br/>
+<a href="#2.0.0">2.0.0</a><br/>
 <a href="#0.2.1">0.2.1</a><br/>
 <a href="#0.2.0">0.2.0</a><br/>
 <a href="#0.1.5">0.1.5</a><br/>
@@ -18,17 +18,17 @@
 </tr>
 </table>
 
-<a id="1.0.1"></a>
-## Version 1.0.1 - Aug 23 2018
+<a id="2.0.0"></a>
+## Version 2.0.0 - Aug 29 2018
 
 ### Notable Changes
- - Change plugin name, adding javascript transpilation, automatic travis build
+ - Change plugin name, adding javascript transpilation, automatic travis build, fix error on unzip libnode.so.gz
 
 ### Commits
- - [[`f86f3a3`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/f86f3a341d38d697f7f2c505fe8af33ffd842e05)] - Release 1.0.1 (amanganiello90)
+ - [[`ff26c5e`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/ff26c5eae1c356d4775765249f022a2812c12207)] - release 2.0.0 (amanganiello90)
+ - [[`a67479c`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/a67479cfcd76de9e6c916d58b3728ee92ec342b8)] - fix error unzip libnode.so (amanganiello90)
  - [[`8248320`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/824832026a6d212ec350eb7922f8a570f092fb23)] - changing name and travis file (amanganiello90)
  - [[`e078248`](https://github.com/fullStackApp/nodejs-cordova-plugin/commit/e078248709d903bc65231f9b24e22b4efeec10df)] - Update after fork (amanganiello90)
-
 
 <a id="0.2.1"></a>
 ## Version 0.2.1 - Jul 30 2018
