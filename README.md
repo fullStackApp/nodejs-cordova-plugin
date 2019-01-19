@@ -12,6 +12,11 @@ This plugin is forked by the staging-babel-UI-runtime branch in order to have ja
 
 For every release there is the features list in [CHANGELOG](https://github.com/fullStackApp/nodejs-cordova-plugin/blob/master/CHANGELOG.md)
 
+* Release 2.1.0
+
+? ??,2019  | **Release 2.1.0** | available from [npm](https://www.npmjs.com/package/nodejs-cordova-plugin/v/2.1.0)  |
+---- | ---- | ---- |
+
 
 * First Release 2.0.0
 
@@ -26,7 +31,8 @@ $ cordova plugin add nodejs-cordova-plugin
 
 ## Requirements
 
- - Cordova 7.x (Cordova 8.x is currently not supported)
+For the 2.1.0 new version in development:
+ - Cordova 8.x 
  - iOS 11 or higher
  - Android API 21 or higher
 
@@ -46,7 +52,7 @@ echo "0" > www/NODEJS_MOBILE_BUILD_NATIVE_MODULES_VALUE.txt
 
 ## Verified requirements
 
- - Cordova 7.0.0
+ - Cordova 8.0.0
  - Cordova android platform 6.3.0
  - Android 6.0.0 device
  
