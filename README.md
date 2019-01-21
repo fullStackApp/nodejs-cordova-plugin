@@ -13,8 +13,9 @@ This plugin is forked by the staging-babel-UI-runtime branch in order to have ja
 For every release there is the features list in [CHANGELOG](https://github.com/fullStackApp/nodejs-cordova-plugin/blob/master/CHANGELOG.md)
 
 * Release 2.1.0
+This is published but not working. So there will be a next 2.1.1 version after testing and retrocompatibles with cordova 7
 
-? ??,2019  | **Release 2.1.0** | available from [npm](https://www.npmjs.com/package/nodejs-cordova-plugin/v/2.1.0)  |
+Jenuary 19,2019  | **Release 2.1.0** | available from [npm](https://www.npmjs.com/package/nodejs-cordova-plugin/v/2.1.0)  |
 ---- | ---- | ---- |
 
 
